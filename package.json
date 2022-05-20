@@ -1,22 +1,22 @@
 {
-    "name": "sunnyside-landing-page",
+    "name": "grafica-rimola-proyecto",
     "version": "1.0.0",
     "description": "Migrando proyecto a SASS",
     "main": "script.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
+      "test": "echo && exit 1",
       "compile:sass":"node-sass sass/main.scss css/main.css --watch"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/JuaniCaste23/Sunnyside-Landing-Page.git"
+      "url": "https://github.com/FelipeRimola9/Gr-fica-servidor/tree/master"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/JuaniCaste23/Sunnyside-Landing-Page/issues"
+      "url": "https://github.com/FelipeRimola9/Gr-fica-servidor/issues"
     },
-    "homepage": "https://github.com/JuaniCaste23/Sunnyside-Landing-Page#readme",
+    "homepage": "https://github.com/FelipeRimola9/Gr-fica-servidor/r#readme",
     "dependencies": {
       "node-sass": "^7.0.0"
     }
